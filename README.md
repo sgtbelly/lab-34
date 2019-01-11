@@ -7,9 +7,10 @@
 
 ### Links and Resources
 * [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/sgtbelly/lab-34)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
+*[sandbox](https://codesandbox.io/s/rjk1nz2k1n)
 
 ### Modules
 #### `modulename.js`
