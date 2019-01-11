@@ -6,7 +6,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/sgtbelly/lab-34/pull/1)
 * [travis](https://www.travis-ci.com/sgtbelly/lab-34)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
